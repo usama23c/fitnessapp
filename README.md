@@ -17,7 +17,11 @@ A sleek Flutter application for tracking fitness activities and stats!
 | App Screenshots |
 |-----------------|
 | ![Home Screen](https://user-images.githubusercontent.com/YOUR_USERNAME/screenshots/home.png) |
-| ![Stats Screen](https://user-images.githubusercontent.com/YOUR_USERNAME/screenshots/stats.png) |
+| ![Stats Screen](https://user-images.githubusercontent.com/YOUR_USERNAME/screenshots/stats![4](https://github.com/user-attachments/assets/f6bdd1c8-8c04-455f-b6a3-5d5e6ea65c18)
+![3](https://github.com/user-attachments/assets/6a55a765-62d2-4711-bce6-2c12a19bf94e)
+![2](https://github.com/user-attachments/assets/ecc40144-88eb-47c6-a777-6b40a50c9712)
+![home](https://github.com/user-attachments/assets/c718b75c-8dc2-43b9-805d-16134be5ccfc)
+.png) |
 | ![Workout Detail](https://user-images.githubusercontent.com/YOUR_USERNAME/screenshots/workout.png) |
 
 ---
